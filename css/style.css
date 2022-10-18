@@ -25,3 +25,7 @@ a {
 .bg-footer {
   background-color: #293c4e;
 }
+
+ul {
+  list-style-type: none;
+}
